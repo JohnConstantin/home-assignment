@@ -1,0 +1,101 @@
+id,timestamp,type,severity,response_time_seconds,call_answer_time_seconds,ai_summary
+451de4ac-47ed-46b5-812a-746b0c77bdc6,2025-01-01T15:45:49,Fire,Medium,225,18,Caller reports a barbecue grill fire that has spread to a wooden fence.
+80c4134d-ff3e-48a5-bfd5-0e4ab0c764bc,2025-01-01T20:05:22,Traffic,Critical,697,5,Cyclist struck by a car door. Cyclist conscious but reports leg pain.
+0859e34b-064a-42d7-ac86-5ce0c83a31c8,2025-01-02T09:02:53,Medical,Low,523,10,Caller reported heavy bleeding from a laceration on the arm following a workplace accident.
+d0bacbf6-00fd-44eb-9ea8-19c73638aa47,2025-01-03T19:01:24,Medical,High,842,7,Caller reported a 34-year-old female experiencing severe chest pain and difficulty breathing.
+9e2db53a-b2de-4725-8af4-b5bd73442763,2025-01-06T17:33:11,Medical,Critical,793,8,Caller reported a 34-year-old female experiencing severe chest pain and difficulty breathing.
+7d7d496d-6c0e-4c71-a969-b573262e7d0b,2025-01-13T08:14:09,Medical,Critical,844,5,"Caller reported an unresponsive elderly male, possible cardiac arrest. CPR instructions provided by dispatcher."
+98eebe48-ba71-4c94-8506-16d5faa3b3bd,2025-01-18T19:06:51,Police,High,1021,5,Caller reports a burglary in progress. Back window was broken. Homeowner is hiding.
+2c93d546-81b5-4c8f-a8e8-8f3bd7ca4c79,2025-01-18T22:44:35,Fire,High,330,4,Kitchen fire at a residential address. Caller states the fire is contained to the stove area.
+d3998dad-6e4f-4848-ac30-95e4dd87a691,2025-01-25T20:45:52,Traffic,Critical,867,3,Road rage incident escalated to physical altercation. Both drivers pulled over.
+6b4ff934-09bc-4b02-83dd-42b9a5146115,2025-01-25T22:39:22,Fire,Low,336,21,Brush fire near a residential community. Potential threat to structures if wind shifts.
+ffdcba81-db89-4306-a5dc-be8e8603a9bc,2025-01-27T21:06:26,Medical,Critical,737,8,Seizure in progress at a grocery store. Staff on scene administering first aid.
+8bdb35e3-4d3b-4bd4-a9bb-9ad1c06bc9e9,2025-01-29T10:50:21,Medical,Low,876,14,Seizure in progress at a grocery store. Staff on scene administering first aid.
+934e35c3-4043-4baf-a95d-69883cd6985e,2025-02-05T07:20:13,Fire,High,701,11,Caller reported smoke visible from a second-floor apartment window. Residents evacuating.
+508542b5-9d0d-4ab8-8e73-0180b6208f95,2025-02-13T10:40:57,Medical,Medium,740,5,Caller reported heavy bleeding from a laceration on the arm following a workplace accident.
+add4e153-98f7-4c49-8f09-7be4f5a54477,2025-02-14T21:53:48,Police,Low,920,40,"Missing juvenile, age 14, last seen leaving school at 3 PM. Family is distraught."
+2e77f2ab-1910-407e-a892-7ab7f2ec7a98,2025-02-16T13:25:27,Medical,Critical,480,5,Allergic reaction following a bee sting. Patient reports throat swelling and difficulty breathing.
+fcaee185-798a-4973-8a67-748f2425ab02,2025-02-17T03:08:38,Traffic,Critical,870,8,Flooding across the roadway following heavy rain. Vehicles stalling in standing water.
+85261b5f-f7ac-44fa-a2ed-befae6605b5c,2025-02-23T17:44:23,Police,Medium,853,7,Suspicious vehicle parked behind a closed business for over three hours.
+0d387f82-5d41-4224-a95a-fe96e47c013f,2025-02-27T12:20:02,Medical,Medium,836,22,"Elderly female fell down stairs, suspected hip fracture. Neighbor called 911."
+601b3406-f186-433e-aded-0a0b4774fd8c,2025-03-06T03:05:41,Fire,High,666,12,Vehicle fire on the interstate. No occupants reported inside. Lane closures in effect.
+e193de9a-daa2-4c49-bfb8-5ba944ea6c1e,2025-03-10T07:22:57,Medical,Critical,675,3,Seizure in progress at a grocery store. Staff on scene administering first aid.
+c185e6c8-a492-4e2c-a2ea-fbd78ac39ada,2025-03-11T08:22:21,Police,Critical,418,4,Vandalism in progress at a park. Group of individuals spray-painting the pavilion.
+bcdd3c30-e414-4c3f-be87-6f50133f3b48,2025-03-11T15:45:45,Fire,High,602,4,Caller reported flames visible from the roof of a three-story office building.
+215a5e8f-f43d-4b6b-b0c2-01a3b05655a1,2025-03-13T06:13:56,Fire,Low,323,35,Vehicle fire on the interstate. No occupants reported inside. Lane closures in effect.
+902597e0-9e2e-4a85-a869-c35674b40569,2025-03-19T12:09:12,Traffic,Critical,1323,3,Flooding across the roadway following heavy rain. Vehicles stalling in standing water.
+70b682b0-30af-4641-b1e0-130a31572620,2025-03-23T19:12:38,Fire,Medium,468,24,Caller reported flames visible from the roof of a three-story office building.
+07e08a2f-354b-4ba3-aed2-6c5f1360dd81,2025-03-26T13:07:09,Traffic,High,748,8,Multi-vehicle collision on the highway. Three cars involved. Possible injuries reported.
+fac8a0ba-6c4f-45e0-8f46-e2bcf68dcf46,2025-03-28T13:47:53,Police,Medium,1140,12,Caller reported a domestic disturbance with shouting and items being thrown. Children present.
+956c3700-1580-4e14-8102-86b202d5508c,2025-03-28T16:28:29,Medical,Critical,521,3,"Pediatric patient, age 7, fell from a second-story window. Conscious but confused on arrival."
+9689de4a-1880-4fd4-a26e-f7b87d8fea9a,2025-04-02T01:38:18,Police,Low,379,26,Hit and run accident. Caller provided partial plate number of a dark-colored sedan.
+5341d0a1-c1cb-4cde-a20b-01b081cc7896,2025-04-02T05:08:02,Police,Critical,1138,8,Hit and run accident. Caller provided partial plate number of a dark-colored sedan.
+95d5a588-6573-477d-acfe-6468f875ce65,2025-04-03T16:42:51,Police,Medium,509,15,Hit and run accident. Caller provided partial plate number of a dark-colored sedan.
+ea554c25-562e-4873-a674-d257ff9e449e,2025-04-05T18:05:59,Fire,Low,686,33,Grass fire spreading along the highway median. Wind conditions are increasing spread rate.
+41c7d51e-a5b7-4706-9073-6be5e5b39e7f,2025-04-06T01:48:11,Medical,High,786,15,"Pediatric patient, age 7, fell from a second-story window. Conscious but confused on arrival."
+8590742c-89ce-4e43-a114-45d30de1ee07,2025-04-07T13:38:42,Medical,Low,587,14,Caller reported a diabetic individual unconscious at a restaurant. Bystanders present.
+6941492b-9d6e-4ec1-8cdc-2cec792116be,2025-04-08T12:37:10,Fire,Medium,697,20,Caller reported smoke visible from a second-floor apartment window. Residents evacuating.
+46bfacaf-5e25-4bac-a0bd-aeef6d407a4f,2025-04-13T20:51:43,Traffic,Low,1299,17,Pedestrian struck by a vehicle at a crosswalk. Subject is conscious and breathing.
+06cb1ad1-c0a3-49b0-90b1-387410506489,2025-04-14T14:59:27,Medical,Critical,789,8,Caller reported heavy bleeding from a laceration on the arm following a workplace accident.
+43fd4d61-eb8f-494a-ba59-3951b163b979,2025-04-16T23:56:29,Traffic,High,1359,7,Cyclist struck by a car door. Cyclist conscious but reports leg pain.
+943160de-9120-4065-bf9a-ac2ae78242ac,2025-04-18T21:56:55,Medical,High,672,9,"Pediatric patient, age 7, fell from a second-story window. Conscious but confused on arrival."
+5e9c14a8-649b-493e-813b-3dc0a18848cc,2025-04-21T05:04:51,Fire,Low,353,13,Caller reports a barbecue grill fire that has spread to a wooden fence.
+28383dc4-f4d2-4021-a84f-0784040eaa3b,2025-04-26T23:16:17,Traffic,Low,372,30,Cyclist struck by a car door. Cyclist conscious but reports leg pain.
+56775ce9-beaa-41c7-ad34-4097115213a2,2025-04-29T00:19:11,Police,Low,861,8,Hit and run accident. Caller provided partial plate number of a dark-colored sedan.
+d373fac1-aafb-4c47-8f2f-f7621782747c,2025-05-03T05:00:37,Medical,High,820,15,Caller reported a diabetic individual unconscious at a restaurant. Bystanders present.
+cf6e55e7-22e4-4a11-9021-ff06ab4a042d,2025-05-03T18:59:06,Traffic,High,974,11,Overturned semi-truck blocking both southbound lanes. Fuel spill suspected.
+9cbac49c-7ba2-4a98-b2bd-07e17ba1a9c6,2025-05-28T13:10:44,Fire,Medium,284,7,Structure fire at a commercial warehouse. Multiple units dispatched. Hazmat on standby.
+7f2b583d-dd5a-4fdf-b25c-3c471dff3895,2025-06-05T02:40:57,Fire,Medium,618,23,Caller reported flames visible from the roof of a three-story office building.
+9d1d4abb-4f8b-4229-a17a-e44fd581c1d5,2025-06-05T05:16:21,Police,Medium,956,21,Vehicle pursuit initiated following a traffic stop on the freeway on-ramp.
+8e25fd2e-9d49-4529-9755-5aa1c0280327,2025-06-05T19:07:36,Medical,High,272,9,Overdose reported at a residential address. Subject was found unresponsive by a roommate.
+1cfe5fe5-6d36-4294-b7d3-15366eba73fd,2025-06-11T11:17:48,Traffic,Medium,1471,19,Multi-vehicle collision on the highway. Three cars involved. Possible injuries reported.
+4702084d-243c-45a6-a2d2-6d923b1ce5d5,2025-06-17T09:41:17,Fire,Critical,279,7,Caller reported flames visible from the roof of a three-story office building.
+fff78192-18f1-4d46-823d-883478e146dc,2025-06-18T18:25:40,Police,Critical,411,6,Bar fight with multiple individuals involved. One reported with a head injury.
+68ab34b0-0ce0-4af1-ae05-17d1de9195ea,2025-06-20T03:23:19,Police,Low,987,31,Vehicle pursuit initiated following a traffic stop on the freeway on-ramp.
+2f63ba4c-b55a-4fee-ae0b-05503db0b1c5,2025-06-20T04:10:34,Fire,Medium,471,10,Caller reports a barbecue grill fire that has spread to a wooden fence.
+0ec7580d-fe07-45fc-a07a-abbfb281d91f,2025-06-21T13:44:38,Fire,Low,509,37,Electrical fire in a utility room. Building has been partially evacuated by staff.
+0c54fbfb-a4e7-4ebf-a793-2bd874a8046b,2025-06-24T18:57:15,Traffic,Low,685,38,"Rear-end collision at a busy intersection. Minor injuries, airbags deployed."
+4d974907-c57a-4651-bf48-89acf22fea4e,2025-06-26T05:00:41,Medical,Medium,685,10,"Caller reported an unresponsive elderly male, possible cardiac arrest. CPR instructions provided by dispatcher."
+1df4906d-5597-4ff4-ad85-a50ec8a65490,2025-07-06T22:35:08,Fire,High,596,11,Kitchen fire at a residential address. Caller states the fire is contained to the stove area.
+ae975969-7781-4afe-a361-9b934b1b0efa,2025-07-08T12:23:27,Medical,High,525,14,Caller reported a diabetic individual unconscious at a restaurant. Bystanders present.
+58509a2c-4b9f-4a51-89ba-ee463f4c2685,2025-07-16T22:43:27,Police,Critical,1037,4,Hit and run accident. Caller provided partial plate number of a dark-colored sedan.
+8fca9f8d-c869-4963-91c0-78ac29b46796,2025-07-25T11:42:11,Medical,Low,630,37,Overdose reported at a residential address. Subject was found unresponsive by a roommate.
+5f0d6261-bcea-4eae-8722-8a6aed9093ec,2025-07-29T11:22:36,Fire,High,562,6,Caller reports a barbecue grill fire that has spread to a wooden fence.
+4629ef22-5095-4e8c-99b1-52949c666394,2025-08-03T06:02:03,Fire,Medium,345,19,Brush fire near a residential community. Potential threat to structures if wind shifts.
+4d1a78ad-5d53-4a96-a537-5069ad94bcf5,2025-08-03T09:23:29,Traffic,Critical,1135,2,"Rear-end collision at a busy intersection. Minor injuries, airbags deployed."
+7ea7ccfd-dfd6-4233-a28b-f30c5996176f,2025-08-04T07:29:55,Traffic,Medium,1184,14,Pedestrian struck by a vehicle at a crosswalk. Subject is conscious and breathing.
+008f1c50-f858-4824-b895-b524d04f7452,2025-08-04T09:16:04,Police,Critical,983,8,Hit and run accident. Caller provided partial plate number of a dark-colored sedan.
+9dbd27f8-1af7-453e-9b66-45d89723f8e3,2025-08-15T20:55:47,Medical,Medium,298,6,"Caller reports a 55-year-old male with slurred speech and facial drooping, possible stroke."
+86928159-fdbf-4a83-9016-d353c4cbc57b,2025-08-17T20:21:15,Fire,Low,405,36,Vehicle fire on the interstate. No occupants reported inside. Lane closures in effect.
+22d73303-25e7-43be-a748-44afc83df55e,2025-08-22T19:13:16,Medical,High,478,12,"Caller reported an unresponsive elderly male, possible cardiac arrest. CPR instructions provided by dispatcher."
+0a64e4be-9966-4363-929e-ac2b433ab29d,2025-08-26T22:20:00,Fire,Low,504,36,Caller reports a barbecue grill fire that has spread to a wooden fence.
+fa96bd1d-f6c1-48c8-a842-5193cc08ceb7,2025-08-28T01:00:53,Fire,Low,568,19,"Smoke alarms triggered in a high-rise apartment. Cause unknown, investigation underway."
+247d60ae-f6e6-47ab-856e-f9cc129b63c2,2025-09-01T09:43:07,Fire,Medium,713,20,Kitchen fire at a residential address. Caller states the fire is contained to the stove area.
+12c9b81c-5298-4fed-b8aa-1ba95a79cd1b,2025-09-13T07:09:43,Fire,Critical,263,5,"Smoke alarms triggered in a high-rise apartment. Cause unknown, investigation underway."
+1e6c4119-2158-4417-b40a-1b6af5d13168,2025-09-15T23:08:38,Fire,Medium,621,7,Caller reported flames visible from the roof of a three-story office building.
+89f7de2b-e4ba-458d-a7c8-17f1ab8838c8,2025-09-17T00:16:11,Police,High,998,7,Armed robbery at a convenience store. Suspect fled on foot heading north on Main St.
+2d223f65-77d8-4982-b8b1-6b2ad25cd1f4,2025-09-17T18:21:14,Traffic,Critical,1156,4,Cyclist struck by a car door. Cyclist conscious but reports leg pain.
+74f12c3c-6609-48b1-abbc-8a8986a2dd47,2025-09-18T06:29:07,Fire,Medium,543,11,Vehicle fire on the interstate. No occupants reported inside. Lane closures in effect.
+ef90afec-2522-462d-b325-a9b668b7eeca,2025-09-19T12:12:44,Traffic,Low,1316,11,Overturned semi-truck blocking both southbound lanes. Fuel spill suspected.
+9b4f345a-b3c1-4fef-b164-b94d7321dd64,2025-09-23T21:04:02,Traffic,Low,912,22,Road rage incident escalated to physical altercation. Both drivers pulled over.
+0746e33c-e1a4-48cf-9731-b4850af592ea,2025-09-25T22:01:56,Traffic,High,1464,15,Debris on the freeway from a fallen load. Vehicles swerving to avoid obstruction.
+71c26579-4959-4a06-82c5-318cf18b54fd,2025-09-28T12:42:12,Police,Low,592,35,Vehicle pursuit initiated following a traffic stop on the freeway on-ramp.
+3fede544-d781-4003-9440-515b3087ea04,2025-11-02T18:51:44,Traffic,High,906,6,Overturned semi-truck blocking both southbound lanes. Fuel spill suspected.
+89a02d0b-af57-4a03-b5b7-2a575da0188c,2025-11-04T14:42:53,Medical,High,882,6,"Elderly female fell down stairs, suspected hip fracture. Neighbor called 911."
+5559f785-5ff2-4efd-a306-d5a6e29c7268,2025-11-10T10:58:50,Police,Medium,918,13,Caller reported a domestic disturbance with shouting and items being thrown. Children present.
+c9a76a6f-9695-4e60-a008-a052ff539821,2025-11-10T14:25:03,Fire,Low,428,38,Brush fire near a residential community. Potential threat to structures if wind shifts.
+81c84f76-48bf-4c05-b6ad-190ff6d33005,2025-11-10T19:18:47,Traffic,High,514,11,Wrong-way driver reported on the interstate. Multiple callers confirming.
+c0a783fa-a522-43f5-b115-a3f95528b22d,2025-11-20T22:28:21,Traffic,Medium,1288,25,Road rage incident escalated to physical altercation. Both drivers pulled over.
+961979e0-4d72-4e9d-aa9c-1ae280848ea5,2025-11-27T15:05:15,Fire,Critical,700,2,Grass fire spreading along the highway median. Wind conditions are increasing spread rate.
+b714b7d1-1516-4ac2-a39c-f6607b3c168e,2025-11-29T17:19:16,Fire,Low,578,9,"Smoke alarms triggered in a high-rise apartment. Cause unknown, investigation underway."
+24177ae9-9a8f-4daa-8a06-a88785cdaa6a,2025-11-30T20:22:57,Medical,High,309,4,Caller reported heavy bleeding from a laceration on the arm following a workplace accident.
+c49631f4-27cb-45fa-90b8-e1d90299538a,2025-12-02T16:21:12,Fire,Low,516,25,Structure fire at a commercial warehouse. Multiple units dispatched. Hazmat on standby.
+3821c8dd-730c-4cb9-a276-30c57db1ea5f,2025-12-03T12:12:47,Police,Critical,1175,3,Armed robbery at a convenience store. Suspect fled on foot heading north on Main St.
+3f292eb4-a164-4057-bcc0-25bf1a37f892,2025-12-05T01:49:16,Police,High,819,5,Hit and run accident. Caller provided partial plate number of a dark-colored sedan.
+b0e1a8d6-2aca-4a59-aed8-83c2a7edad93,2025-12-07T23:38:33,Police,High,359,7,Vandalism in progress at a park. Group of individuals spray-painting the pavilion.
+bd9bce26-19a3-4c53-9f36-a195bd524d73,2025-12-09T02:14:57,Fire,Medium,315,16,Structure fire at a commercial warehouse. Multiple units dispatched. Hazmat on standby.
+24a8b0a5-5140-4990-b362-86baf3c845f8,2025-12-11T03:23:40,Traffic,Critical,1292,5,School bus involved in a minor fender-bender. No children reported injured.
+2cd71bb8-a1c2-4349-aa32-0e7adc2f6fac,2025-12-12T12:43:24,Medical,High,510,5,Caller reported a 34-year-old female experiencing severe chest pain and difficulty breathing.
+6897c79a-5f60-451a-99f9-18515f894c5f,2025-12-16T03:06:53,Fire,Critical,495,4,Caller reported smoke visible from a second-floor apartment window. Residents evacuating.
+da82efcf-5040-49f0-b17e-32a451d74475,2025-12-18T01:13:29,Medical,Critical,317,7,"Pediatric patient, age 7, fell from a second-story window. Conscious but confused on arrival."
+49ecba7b-ef1f-4a24-b0f4-40d10dae3ecd,2025-12-26T12:44:39,Police,Low,935,17,Caller reports a burglary in progress. Back window was broken. Homeowner is hiding.
